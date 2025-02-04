@@ -17,7 +17,8 @@ body {
 
 .card {
   background-color: #1f1f1f;
-  width: 384px;
+  width: 100%;
+  max-width: 384px;
   height: auto;
   border-radius: 12px;
   padding: 40px;
@@ -115,4 +116,21 @@ a {
   font-size: 11px;
   text-align: center;
   display: none;
+}
+
+/* Адаптация для планшетов */
+@media (min-width: 768px) and (max-width: 1024px) {
+  .card {
+    width: 384px;
+    max-width: 456px;
+  }
+}
+
+/* Адаптация для мобильных устройств */
+@media (max-width: 767px) {
+  .card {
+    width: 327px;
+    max-width: 327px;
+    padding: 24px;
+  }
 }
