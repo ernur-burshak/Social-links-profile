@@ -94,7 +94,7 @@ In the future, I want to expand my knowledge of css and make the most of css fea
 ## Author
 
 - Website - [Ernur](https://ernur-burshak.github.io/Social-links-profile/)
-- Frontend Mentor - Frontend Mentor - [@ernur-burshak](https://www.frontendmentor.io/profile/ernur-burshak)
+- Frontend Mentor - [@ernur-burshak](https://www.frontendmentor.io/profile/ernur-burshak)
 
 ## Acknowledgments
 
