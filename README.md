@@ -89,7 +89,7 @@ In the future, I want to expand my knowledge of css and make the most of css fea
 ### Useful resources
 
 - [Frontend Mentor](https://www.frontendmentor.io/) - It always helps to improve Frontend skills.
-- [Discord](ttps://www.frontendmentor.io/community) - This is the link for our Discord community for Frontend mentor.
+- [Discord](https://www.frontendmentor.io/community) - This is the link for our Discord community for Frontend mentor.
 
 ## Author
 
